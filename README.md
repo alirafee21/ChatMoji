@@ -14,6 +14,7 @@ Before running the application, you will need to have the following installed on
 * pywin 
 * pyaudio
 * websockets
+### Installation
 
 ### Windows
 ```bash
@@ -21,5 +22,9 @@ pip install pywin
 pipwin install pyaudio 
 pip install kivy
 pip install websockets
-
+pip install Selenium
 ```
+
+1. Clone the repository:
+  `git clone https://github.com/alirafee21/ChatMoji.git`
+
