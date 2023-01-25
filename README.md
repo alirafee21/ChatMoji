@@ -26,5 +26,5 @@ pip install Selenium
 ```
 
 1. Clone the repository:
-  `git clone https://github.com/alirafee21/ChatMoji.git`
+  ```git clone https://github.com/alirafee21/ChatMoji.git```
 
