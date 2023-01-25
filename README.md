@@ -28,6 +28,9 @@ pip install Selenium
 1. Clone the repository:
    `git clone https://github.com/alirafee21/ChatMoji.git`
 2. Run Server
-
+   1. `python socket_server.py`
+   2. IP: 127.0.0.1
+   3. PORT: 1234
+  
 3. Run Main application 
    `python ChatMoji.py`
